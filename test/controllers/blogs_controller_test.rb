@@ -22,3 +22,4 @@ class BlogsControllerTest < ActionDispatch::IntegrationTest
   end
 
 end
+
